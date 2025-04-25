@@ -1,0 +1,16 @@
+node_modules/
+.env
+*.log
+uploads/*
+dist
+/build
+*.cache
+config/*firebase*.js
+config/*firebase*.json
+config/serviceAccountKey.json
+config/firebaseServiceAccount.json
+middleware/rateLimiter.js
+middleware/securityHeaders.js
+*.tmp
+*.temp
+*.bak
